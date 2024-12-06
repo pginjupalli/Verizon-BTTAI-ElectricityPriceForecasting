@@ -17,7 +17,7 @@
 ## **Business Focus**  
 This project tackles the challenge of predicting electricity prices across U.S. states and sectors to optimize Verizon’s energy management strategies. With over $1 billion spent annually on electricity, Verizon seeks a robust forecasting solution to enhance budgeting, improve decision-making, and reduce operational costs.  
 
-By building a predictive model, we aimed to:  
+By building a time-series model, we aimed to:  
 - Forecast electricity prices by state and sector through 2030.  
 - Provide actionable insights into pricing trends to support strategic planning.  
 - Develop an interactive dashboard for easy visualization of predictions and trends.  
